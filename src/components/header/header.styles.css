@@ -1,0 +1,8 @@
+.headerWrapper__header {
+}
+
+.headerWrapper__header--span {
+  color: red;
+  font-size: 1.5em;
+  text-transform: capitalize;
+}

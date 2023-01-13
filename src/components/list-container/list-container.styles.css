@@ -1,0 +1,9 @@
+.listContainer {
+  background-color: rgb(92, 92, 92);
+  height: 700px;
+  overflow: scroll;
+}
+
+.filter-btn {
+  margin: 2rem;
+}
