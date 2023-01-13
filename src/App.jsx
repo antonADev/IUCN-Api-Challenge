@@ -27,7 +27,6 @@ function App() {
       const res = await data.json();
 
       // 2. Take a random region from the list
-
       setRegion(res.results[randomize(res.results.length)]);
       setLoading(true);
     };
