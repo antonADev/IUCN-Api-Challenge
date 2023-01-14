@@ -10,3 +10,18 @@ API - IUCN Red List of Threatened Species
    • Fetch the conservation measures for all critically endangered species
    • Store the “title”-s of the response in the Species model as concatenated text property. • Print/display the results
 6. Filter the results (from step 4) for the mammal class • Print/display the results
+
+
+## Infos on how to run the app
+
+- First add an .env file in the project directory.
+- Inside the .env file add your API Token in a environment variable named VITE_IUCN_API_TOKEN
+- Run an available script
+
+### Available Scripts
+
+In the project directory, you can run:
+
+### `npm run dev`
+
+Runs the app in the development mode.
